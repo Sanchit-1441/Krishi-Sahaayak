@@ -1,11 +1,8 @@
 # Krishi-Sahaayak
 
-### Note
-Model.keras file mentioned in app.py is of 193MB and not possible to upload on GitHub.
-
-Run Crop Disease Identifier to save it. [Shall take time depending on Device Performance]
-
 ## Instructions
+Save Disease Model in the Project Directory - https://drive.google.com/file/d/1Zk2vhkHql0p-cWBX-wNAvP05Q1akyo3Y/view?usp=drive_link
+
 Run app.py and you will see a Flask web app UI on browser.
 
 ## Datasets
@@ -13,3 +10,11 @@ Disease Model - https://www.kaggle.com/datasets/abdallahalidev/plantvillage-data
 
 Recommendation Model - CSV File uploaded.
 
+## Certifications
+SANCHIT MISHRA [E22CSEU1183] - https://www.coursera.org/verify/LFMGTASGZNLW
+
+RIDHI JOLLY [E22CSEU1161] - 
+
+SAMARTH MAHESHWARI [E22CSEU1699] - 
+
+ABHAY KUMAR SAINI [E22CSEU1768] - 
