@@ -13,8 +13,8 @@ Recommendation Model - CSV File uploaded.
 ## Certifications
 SANCHIT MISHRA [E22CSEU1183] - https://www.coursera.org/verify/LFMGTASGZNLW
 
-RIDHI JOLLY [E22CSEU1161] - 
+RIDHI JOLLY [E22CSEU1161] - https://coursera.org/verify/B43RSPJI8ZI2
 
 SAMARTH MAHESHWARI [E22CSEU1699] - https://coursera.org/verify/VDZQ9M1Y222G
 
-ABHAY KUMAR SAINI [E22CSEU1768] - 
+ABHAY KUMAR SAINI [E22CSEU1768] - https://coursera.org/verify/DTC21WCQG42Y
